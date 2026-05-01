@@ -1,4 +1,4 @@
-## OECD EPL Dashboard
+## OECD EPL tech Dashboard
 
 Interactive Streamlit dashboard for exploring OECD Employment Protection Legislation (EPL) indicators across European countries, and comparing them with technology indicators such as ICT uptake and patent applications.
 
@@ -39,6 +39,8 @@ streamlit run EPL_dashboard.py
 ### Tech stack
 
 Python, Streamlit, pandas, requests, matplotlib.
+
+**Live demo:** [epl-tech-dashboard.streamlit.app](https://epl-tech-dashboard-8kvmuvxjpj6m8reggsd6pd.streamlit.app/))
 
 ### How this was built
 
