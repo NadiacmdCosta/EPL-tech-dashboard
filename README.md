@@ -1,4 +1,4 @@
-## OECD EPL tech Dashboard
+## OECD EPL Tech Dashboard
 
 Interactive Streamlit dashboard for exploring OECD Employment Protection Legislation (EPL) indicators across European countries, and comparing them with technology indicators such as ICT uptake and patent applications.
 
