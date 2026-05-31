@@ -25,8 +25,8 @@ All data is fetched live from the [OECD SDMX REST API](https://data-explorer.oec
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/NadiacmdCosta/EPL-dashboard.git
-cd EPL-dashboard
+git clone https://github.com/NadiacmdCosta/EPL-tech-dashboard.git
+cd EPL-tech-dashboard
 pip install -r requirements.txt
 ```
 
@@ -40,7 +40,7 @@ streamlit run EPL_dashboard.py
 
 Python, Streamlit, pandas, requests, matplotlib.
 
-**Live demo:** [epl-tech-dashboard.streamlit.app](https://epl-tech-dashboard-8kvmuvxjpj6m8reggsd6pd.streamlit.app/))
+**Live demo:** [epl-tech-dashboard.streamlit.app](https://epl-tech-dashboard-8kvmuvxjpj6m8reggsd6pd.streamlit.app/)
 
 ### How this was built
 
